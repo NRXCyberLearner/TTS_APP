@@ -97,7 +97,7 @@ VoiceForge-Pro/
 ### 1. Clone or copy the project
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/NRXCyberLearner/TTS_APP.git
 cd VoiceForge-Pro
 ```
 
